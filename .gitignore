@@ -1,3 +1,6 @@
 *.pyc
 
 .ipynb_checkpoints
+
+# virtual environment
+venv/
